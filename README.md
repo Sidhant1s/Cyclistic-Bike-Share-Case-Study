@@ -11,9 +11,10 @@ An end-to-end data analytics portfolio project analyzing historical trip data to
 2. [Data Processing & Preparation Phase]
 3. [Process & Automation Phase (Python)]
 4. [Analysis & Visualization Phase (Tableau)]
-5. [presentation ]
-6. [Changelog]
-7. [License]
+5. [ Key Performance Indicators (KPIs)]
+6. [presentation ]
+7. [Changelog]
+8. [License]
 
 ---
 
@@ -61,7 +62,13 @@ An end-to-end data analytics portfolio project analyzing historical trip data to
 
 ---
 
-## 5. Key Findings & Strategic Insights
+## 5.📊 Key Performance Indicators (KPIs)
+To measure the behavioral differences between user groups and evaluate marketing success, the following KPIs were established:
+* **Average Trip Duration**: Measures the length of time per trip (revealing that casual riders take significantly longer, leisure-oriented trips compared to members).
+* **Weekly Ride Volume (Trip Count)**: Tracks total usage patterns across the days of the week (highlighting heavy weekend activity spikes for casual riders versus steady commuting trends for members).
+* **Target Conversion Rate (Forward-Looking KPI)**: While historical conversion data is absent from the raw logs, tracking the percentage of casual riders upgrading to annual memberships serves as the primary benchmark for future marketing campaign success.
+
+## 6. Key Findings & Strategic Insights
 
 * Usage Parity: Total ride volumes and usage levels between casual riders and annual members are relatively close, showing that the gap between the two groups is not excessively large, and casual riders frequently match or exceed member activity levels in specific areas.
 * Behavioral Split: Casual riders represent a highly active market segment with significant trip durations and heavy weekend activity peaks, whereas annual members maintain consistent commuting patterns throughout the week.
@@ -70,7 +77,7 @@ An end-to-end data analytics portfolio project analyzing historical trip data to
 
 ---
 
-## 6. Changelog
+## 7. Changelog
 
 *  Project Inception & Data Gathering**: Downloaded raw historical monthly trip data and established secure local backup copies.
 *  Scoping & Data Filtering**: Excluded legacy datasets and incomplete timestamp files (`202406`, `2025`, `2026`, and date-missing entries).
@@ -81,6 +88,6 @@ An end-to-end data analytics portfolio project analyzing historical trip data to
 
 ---
 
-## 7. License
+## 8. License
 
 This project is licensed under the terms of the **MIT License**.
