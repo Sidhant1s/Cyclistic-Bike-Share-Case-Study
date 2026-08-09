@@ -59,7 +59,7 @@ An end-to-end data analytics portfolio project analyzing historical trip data to
 
 
 * **Visualizations**: Generated clear visual charts comparing average trip durations and weekly volume trends between member and casual user groups.
- ![Average Trip Duration Chart](https://github.com/Sidhant1s/YOUR-REPO-NAME/assets/...)
+  
 
 
 
