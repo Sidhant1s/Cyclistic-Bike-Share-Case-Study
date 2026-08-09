@@ -59,9 +59,8 @@ An end-to-end data analytics portfolio project analyzing historical trip data to
 
 
 * **Visualizations**: Generated clear visual charts comparing average trip durations and weekly volume trends between member and casual user groups.
-  
-  <img width="829" height="959" alt="image" src="https://github.com/user-attachments/assets/3e37bdaa-3993-4ee6-a9ae-f1df51ad661a" />
-  <img width="1359" height="1100" alt="image" src="https://github.com/user-attachments/assets/b9a19409-4d6c-4a6f-883a-366b213f273a" />
+  ![Average Trip Duration Chart](chart1.png)
+![Weekly Activity Trend Chart](chart2.png)
 
 
 
